@@ -1,0 +1,731 @@
+.large,
+.large * {
+  box-sizing: border-box;
+}
+.large {
+  background: #ffffff;
+  width: 1600px;
+  height: 2200px;
+  position: relative;
+  overflow: hidden;
+}
+.background-banner {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(174, 174, 174, 1) 100%
+  );
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  width: 1600px;
+  height: 940px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mid-section {
+  width: 1600px;
+  height: 502px;
+  position: absolute;
+  left: 0px;
+  top: 940px;
+  overflow: hidden;
+}
+.background-banner2 {
+  background: #28a745;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.background-banner3 {
+  background: #3fca5f;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 93.19%;
+  left: 3.38%;
+  width: 3.44%;
+  bottom: 44.62%;
+  top: 45.02%;
+  height: 10.36%;
+}
+.deposit {
+  position: absolute;
+  right: 93.62%;
+  left: 3.75%;
+  width: 2.62%;
+  bottom: 45.42%;
+  top: 46.22%;
+  height: 8.37%;
+}
+.streamlined-contract {
+  color: #f3f9ff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 715px);
+  top: calc(50% - 203px);
+  width: 815px;
+  height: 59px;
+}
+.safe-dev-offers-a-sim {
+  color: #d3d3d3;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 715px);
+  top: calc(50% - 143.89px);
+  width: 1104px;
+  height: 79.41px;
+}
+.security-deposits {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: calc(50% - -35.94px);
+  width: 200.82px;
+  height: 27.43px;
+}
+.place-down-digital-a {
+  color: #cacaca;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: calc(50% - -73.39px);
+  width: 334.43px;
+  height: 156.61px;
+}
+.place-down-digital-a-copy {
+  color: #cacaca;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 746px);
+  top: calc(50% - -73.39px);
+  width: 334.43px;
+  height: 156.61px;
+}
+.a-secure-user-verifi {
+  color: #cacaca;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 338px);
+  top: calc(50% - -71.39px);
+  width: 334.43px;
+  height: 156.61px;
+}
+.responsive-contract {
+  color: #cacaca;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -42px);
+  top: calc(50% - -74.39px);
+  width: 334.43px;
+  height: 156.61px;
+}
+._24-7-staff-support-f {
+  color: #cacaca;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -411px);
+  top: calc(50% - -68.39px);
+  width: 334.43px;
+  height: 156.61px;
+}
+.background-banner4 {
+  background: #3fca5f;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 67.69%;
+  left: 28.88%;
+  width: 3.44%;
+  bottom: 45.42%;
+  top: 44.22%;
+  height: 10.36%;
+}
+.deposit2 {
+  position: absolute;
+  right: 68.06%;
+  left: 29.31%;
+  width: 2.62%;
+  bottom: 46.22%;
+  top: 45.42%;
+  height: 8.37%;
+}
+.user-verification {
+  color: #f6f6f6;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 338.16px);
+  top: calc(50% - -31.82px);
+  width: 177.9px;
+  height: 27.43px;
+}
+.background-banner5 {
+  background: #3fca5f;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 20.88%;
+  left: 75.69%;
+  width: 3.44%;
+  bottom: 44.62%;
+  top: 45.02%;
+  height: 10.36%;
+}
+.deposit3 {
+  position: absolute;
+  right: 21.25%;
+  left: 76.12%;
+  width: 2.62%;
+  bottom: 45.42%;
+  top: 46.22%;
+  height: 8.37%;
+}
+.staff-support {
+  color: #f6f6f6;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -411.1px);
+  top: calc(50% - -35.82px);
+  width: 177.9px;
+  height: 27.43px;
+}
+.background-banner6 {
+  background: #3fca5f;
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 43.94%;
+  left: 52.62%;
+  width: 3.44%;
+  bottom: 44.62%;
+  top: 45.02%;
+  height: 10.36%;
+}
+.deposit4 {
+  position: absolute;
+  right: 44.31%;
+  left: 53.06%;
+  width: 2.62%;
+  bottom: 45.42%;
+  top: 46.22%;
+  height: 8.37%;
+}
+.auto-terms-generatio {
+  color: #f6f6f6;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -42.28px);
+  top: calc(50% - -35.94px);
+  width: 220.86px;
+  height: 27.43px;
+}
+.links-section {
+  width: 1600px;
+  height: 655px;
+  position: absolute;
+  left: 0px;
+  top: 1442px;
+  overflow: hidden;
+}
+.background-banner7 {
+  background: #fd7e14;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+
+.bitmap {
+  position: absolute;
+  right: 17.12%;
+  left: 74.31%;
+  width: 8.56%;
+  bottom: 39.54%;
+  top: 39.54%;
+  height: 20.92%;
+}
+.most-lucrative-devel {
+  color: #f3f9ff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 715px);
+  top: calc(50% - 273.5px);
+  width: 815px;
+  height: 114px;
+}
+.checkout-the-resourc {
+  color: #584b4b;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 715px);
+  top: calc(50% - 159.56px);
+  width: 757px;
+  height: 27.43px;
+}
+.learn-about-how-our {
+  color: #f6f6f6;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 31px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 665.16px);
+  top: calc(50% - -56.32px);
+  width: 461px;
+}
+.as-client-link {
+  color: #dfd1d1;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 666.16px);
+  top: calc(50% - -152.32px);
+  width: 461px;
+}
+.developer-browser-link {
+  color: #dfd1d1;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 198.16px);
+  top: calc(50% - -143.32px);
+  width: 461px;
+}
+.developer-application-link {
+  color: #dfd1d1;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - -226.84px);
+  top: calc(50% - -143.32px);
+  width: 461px;
+}
+.client-application-link {
+  color: #dfd1d1;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - -226.84px);
+  top: calc(50% - -180.32px);
+  width: 461px;
+}
+.asset-marketplace-link {
+  color: #dfd1d1;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 198.16px);
+  top: calc(50% - -180.32px);
+  width: 461px;
+}
+.as-developer-link {
+  color: #dfd1d1;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: calc(50% - 666.16px);
+  top: calc(50% - -187.32px);
+  width: 461px;
+}
+.browse-the-marketpla {
+  color: #f6f6f6;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 31px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 198.16px);
+  top: calc(50% - -56.32px);
+  width: 461px;
+}
+.become-a-verified-de {
+  color: #f6f6f6;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 31px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -226.84px);
+  top: calc(50% - -56.32px);
+  width: 461px;
+}
+.bitmap2 {
+  position: absolute;
+  right: 73.62%;
+  left: 19.25%;
+  width: 7.12%;
+  bottom: 43.05%;
+  top: 39.54%;
+  height: 17.4%;
+}
+.bitmap3 {
+  position: absolute;
+  right: 44.44%;
+  left: 48.44%;
+  width: 7.12%;
+  bottom: 43.05%;
+  top: 39.54%;
+  height: 17.4%;
+}
+.home-sign-up-area {
+  width: 840px;
+  height: 277px;
+  position: absolute;
+  left: 118px;
+  top: 382px;
+  overflow: hidden;
+}
+.background-banner8 {
+  background: #bfc1bf;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 35.6%;
+  left: 0%;
+  width: 64.4%;
+  bottom: 0%;
+  top: 79.42%;
+  height: 20.58%;
+}
+.home-page-signup {
+  position: absolute;
+  right: 15.6%;
+  left: 66.55%;
+  width: 17.86%;
+  bottom: 0%;
+  top: 79.42%;
+  height: 20.58%;
+  overflow: hidden;
+}
+.background-banner9 {
+  background: #28a745;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 57px);
+  top: calc(50% - 21.5px);
+  width: 114px;
+  height: 44px;
+}
+.a-reliable-bridge-be {
+  color: #5eab6f;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 54px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 414px);
+  top: calc(50% - 138.5px);
+  width: 834px;
+  height: 148px;
+}
+.project-transactions {
+  color: #8d8d8d;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 420px);
+  top: calc(50% - -9.5px);
+  width: 540px;
+  height: 37px;
+}
+.enter-email-here {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 404px);
+  top: calc(50% - -88.5px);
+  width: 511px;
+  height: 44px;
+}
+.top-bar {
+  width: 1509px;
+  height: 58px;
+  position: absolute;
+  left: 79px;
+  top: 11px;
+  overflow: hidden;
+}
+.top-login {
+  position: absolute;
+  right: 0%;
+  left: 84.29%;
+  width: 15.71%;
+  bottom: 0%;
+  top: 12.07%;
+  height: 87.93%;
+  overflow: hidden;
+}
+.background-banner10 {
+  background: #28a745;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 13.73%;
+  top: 0%;
+  height: 86.27%;
+}
+.login-register {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 104.5px);
+  top: calc(50% - 18.5px);
+  width: 210px;
+  height: 44px;
+}
+.safe-dev {
+  color: #28a745;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 754.5px);
+  top: calc(50% - 29px);
+}
+.header-buttons {
+  position: absolute;
+  right: 40.03%;
+  left: 13.65%;
+  width: 46.32%;
+  bottom: 10.34%;
+  top: 17.24%;
+  height: 72.41%;
+  overflow: hidden;
+}
+.home {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 349.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.services {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 214.5px);
+  top: calc(50% - 21px);
+  width: 135px;
+  height: 41px;
+}
+.faq {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 79.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.team {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -55.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.contact-us {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -190.5px);
+  top: calc(50% - 20px);
+  width: 159px;
+  height: 41px;
+}
+.rectangle {
+  background: #dcdcdc;
+  width: 1600px;
+  height: 31px;
+  position: absolute;
+  left: 0px;
+  top: 74px;
+}
+.contact-us2 {
+  color: #343a40;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 705px;
+  top: 2132px;
+  width: 255px;
+  height: 52px;
+}
+.safe-dev-logo {
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: 11px;
+  top: 6px;
+}
+
+
+.hover-effect {
+  transition: text-shadow 0.5s ease; 
+}
+.hover-effect:hover {
+  text-shadow: 0px 0px 8px rgba(17, 219, 10, 0.7); 
+}
+
+
+.background-banner10 {
+  transition: background-color 0.75s ease; 
+}
+
+.top-login:hover .background-banner10 {
+  background-color: rgba(6, 91, 3, 0.7); 
+}
+
+.background-banner9, .sign-up {
+  transition: background-color 0.75s ease, color 0.5s ease;
+}
+
+.home-page-signup:hover .background-banner9 {
+  background-color: rgba(6, 91, 3, 0.7); 
+}
+
+html {
+  scroll-behavior: smooth;
+}

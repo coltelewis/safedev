@@ -1,0 +1,345 @@
+.large,
+.large * {
+  box-sizing: border-box;
+}
+.large {
+  background: #ffffff;
+  width: 1600px;
+  height: 900px;
+  position: relative;
+  overflow: hidden;
+}
+.background-banner {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(174, 174, 174, 1) 100%
+  );
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  width: 1600px;
+  height: 785px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.email-prompt {
+  width: 541px;
+  height: 57px;
+  position: absolute;
+  left: 118px;
+  top: 313px;
+  overflow: hidden;
+}
+.background-banner2 {
+  background: #bfc1bf;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.enter-email {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-LightOblique", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 254.5px);
+  top: calc(50% - 21.5px);
+  width: 511px;
+}
+.group-copy {
+  width: 541px;
+  height: 57px;
+  position: absolute;
+  left: 118px;
+  top: 388px;
+  overflow: hidden;
+}
+.create-username {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-LightOblique", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 254.5px);
+  top: calc(50% - 21.5px);
+  width: 511px;
+}
+.group-copy-2 {
+  width: 541px;
+  height: 57px;
+  position: absolute;
+  left: 118px;
+  top: 463px;
+  overflow: hidden;
+}
+.create-password {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-LightOblique", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 254.5px);
+  top: calc(50% - 21.5px);
+  width: 511px;
+}
+.group-copy-3 {
+  width: 541px;
+  height: 57px;
+  position: absolute;
+  left: 118px;
+  top: 538px;
+  overflow: hidden;
+}
+.confirm-password {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-LightOblique", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 254.5px);
+  top: calc(50% - 21.5px);
+  width: 511px;
+}
+.home-page-signup-copy {
+  width: 150px;
+  height: 57px;
+  position: absolute;
+  left: 522px;
+  top: 613px;
+  overflow: hidden;
+}
+.background-banner3 {
+  background: #28a745;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Avenir-LightOblique", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 57px);
+  top: calc(50% - 21.5px);
+}
+.become-a-member-toda {
+  color: #5eab6f;
+  text-align: left;
+  font-family: "Avenir-BlackOblique", sans-serif;
+  font-size: 54px;
+  font-weight: 400;
+  position: absolute;
+  left: 118px;
+  top: 239px;
+}
+.not-match-password {
+  color: #ab5e5e;
+  text-align: left;
+  font-family: "Avenir-BlackOblique", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  opacity: 0.00009999999747378752;
+  position: absolute;
+  left: 118px;
+  top: 601px;
+}
+.top-bar {
+  width: 1509px;
+  height: 58px;
+  position: absolute;
+  left: 79px;
+  top: 11px;
+  overflow: hidden;
+}
+.top-login {
+  position: absolute;
+  right: 0%;
+  left: 84.29%;
+  width: 15.71%;
+  bottom: 0%;
+  top: 12.07%;
+  height: 87.93%;
+  overflow: hidden;
+}
+.background-banner4 {
+  background: #28a745;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 13.73%;
+  top: 0%;
+  height: 86.27%;
+}
+.login-register {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 104.5px);
+  top: calc(50% - 18.5px);
+  width: 210px;
+  height: 44px;
+}
+.safe-dev {
+  color: #28a745;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 754.5px);
+  top: calc(50% - 29px);
+}
+.header-buttons {
+  position: absolute;
+  right: 40.03%;
+  left: 13.65%;
+  width: 46.32%;
+  bottom: 10.34%;
+  top: 17.24%;
+  height: 72.41%;
+  overflow: hidden;
+}
+.home {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 349.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.services {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 214.5px);
+  top: calc(50% - 21px);
+  width: 135px;
+  height: 41px;
+}
+.faq {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 79.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.team {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -55.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.contact-us {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -190.5px);
+  top: calc(50% - 20px);
+  width: 159px;
+  height: 41px;
+}
+.rectangle {
+  background: #dcdcdc;
+  width: 1600px;
+  height: 31px;
+  position: absolute;
+  left: 0px;
+  top: 74px;
+}
+.safe-dev-logo {
+  width: 509px;
+  height: 509px;
+  position: absolute;
+  left: 892px;
+  top: 208px;
+}
+.safe-dev-logo2 {
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: 11px;
+  top: 6px;
+}
+.contact-us2 {
+  color: #343a40;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 672px;
+  top: 820px;
+  width: 255px;
+  height: 52px;
+}
+
+.hover-effect {
+  transition: text-shadow 0.5s ease; 
+}
+.hover-effect:hover {
+  text-shadow: 0px 0px 8px rgba(17, 219, 10, 0.7); 
+}
+
+
+.background-banner4 {
+  transition: background-color 0.75s ease; 
+}
+
+.top-login:hover .background-banner4 {
+  background-color: rgba(6, 91, 3, 0.7); 
+}
+
