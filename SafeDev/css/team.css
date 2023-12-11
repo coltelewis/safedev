@@ -1,0 +1,500 @@
+.large,
+.large * {
+  box-sizing: border-box;
+}
+.large {
+  background: #ffffff;
+  width: 1600px;
+  height: 2300px;
+  position: relative;
+  overflow: hidden;
+}
+.background-banner {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(174, 174, 174, 1) 100%
+  );
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  width: 1600px;
+  height: 2235px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group {
+  width: 645px;
+  height: 640px;
+  position: absolute;
+  left: 119px;
+  top: 236px;
+  overflow: hidden;
+}
+.background-banner2 {
+  background: #28a745;
+  border-radius: 57px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.clean-shot-2023-12-06-at-00-48-19-2-x {
+  position: absolute;
+  right: 18.46%;
+  left: 18.65%;
+  width: 62.89%;
+  bottom: 25.78%;
+  top: 20.78%;
+  height: 53.44%;
+}
+.colten-lewis {
+  color: #f3f9ff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 132.5px);
+  top: calc(50% - 269px);
+  width: 266px;
+  height: 59px;
+}
+.founder-and-back-end {
+  color: #443c3c;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194.5px);
+  top: calc(50% - 223px);
+  width: 390px;
+  height: 27px;
+}
+.experience-in-javas-s {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 195.5px);
+  top: calc(50% - -171px);
+  width: 436px;
+  height: 112px;
+}
+.group-copy {
+  width: 645px;
+  height: 638px;
+  position: absolute;
+  left: 837px;
+  top: 238px;
+  overflow: hidden;
+}
+.img-3539 {
+  position: absolute;
+  right: 29.34%;
+  left: 30.08%;
+  width: 40.58%;
+  bottom: 24.61%;
+  top: 20.69%;
+  height: 54.7%;
+}
+.ellie-sioukas {
+  color: #f3f9ff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 132.5px);
+  top: calc(50% - 268px);
+  width: 266px;
+  height: 59px;
+}
+.founder-and-front-en {
+  color: #443c3c;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194.5px);
+  top: calc(50% - 222px);
+  width: 390px;
+  height: 27px;
+}
+.experience-in-javasc {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 195.5px);
+  top: calc(50% - -172px);
+  width: 436px;
+  height: 59px;
+}
+.group2 {
+  width: 645px;
+  height: 640px;
+  position: absolute;
+  left: 119px;
+  top: 910px;
+  overflow: hidden;
+}
+.bitmap {
+  position: absolute;
+  right: 19.53%;
+  left: 20%;
+  width: 60.47%;
+  bottom: 24.38%;
+  top: 14.69%;
+  height: 60.94%;
+}
+.preston-down {
+  color: #f3f9ff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 155.5px);
+  top: calc(50% - 268px);
+  width: 313px;
+  height: 59px;
+}
+.founder-and-front-en2 {
+  color: #443c3c;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194.5px);
+  top: calc(50% - 223px);
+  width: 390px;
+  height: 27px;
+}
+.about-me {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 195.5px);
+  top: calc(50% - -171px);
+  width: 436px;
+  height: 112px;
+}
+.group-copy2 {
+  width: 645px;
+  height: 638px;
+  position: absolute;
+  left: 837px;
+  top: 912px;
+  overflow: hidden;
+}
+.bitmap2 {
+  position: absolute;
+  right: 12.71%;
+  left: 7.91%;
+  width: 79.38%;
+  bottom: 11.76%;
+  top: 7.99%;
+  height: 80.25%;
+}
+.zack-fichser {
+  color: #f3f9ff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 132.5px);
+  top: calc(50% - 268px);
+  width: 266px;
+  height: 59px;
+}
+.founder-and-concept {
+  color: #443c3c;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194.5px);
+  top: calc(50% - 222px);
+  width: 390px;
+  height: 27px;
+}
+.about-me2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 195.5px);
+  top: calc(50% - -172px);
+  width: 436px;
+  height: 59px;
+}
+.group3 {
+  width: 645px;
+  height: 640px;
+  position: absolute;
+  left: 118px;
+  top: 1584px;
+  overflow: hidden;
+}
+.caden-britton {
+  color: #f3f9ff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 167.5px);
+  top: calc(50% - 268px);
+  width: 336px;
+  height: 59px;
+}
+.bitmap3 {
+  position: absolute;
+  right: 12.71%;
+  left: 8.68%;
+  width: 78.6%;
+  bottom: 12.66%;
+  top: 8.12%;
+  height: 79.22%;
+}
+.founder-and-interfac {
+  color: #443c3c;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 194.5px);
+  top: calc(50% - 223px);
+  width: 390px;
+  height: 27px;
+}
+.group-copy3 {
+  width: 645px;
+  height: 638px;
+  position: absolute;
+  left: 836px;
+  top: 1586px;
+  overflow: hidden;
+}
+.bitmap4 {
+  position: absolute;
+  right: 10.7%;
+  left: 10.7%;
+  width: 78.6%;
+  bottom: 12.54%;
+  top: 7.99%;
+  height: 79.47%;
+}
+.isaac-larimer {
+  color: #f3f9ff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 132.5px);
+  top: calc(50% - 268px);
+  width: 266px;
+  height: 59px;
+}
+.meet-our-team {
+  color: #5eab6f;
+  text-align: left;
+  font-family: "Avenir-Oblique", sans-serif;
+  font-size: 54px;
+  font-weight: 400;
+  position: absolute;
+  left: 54px;
+  top: 128px;
+}
+.rectangle {
+  background: #dcdcdc;
+  width: 1600px;
+  height: 31px;
+  position: absolute;
+  left: 0px;
+  top: 74px;
+}
+.top-bar {
+  width: 1509px;
+  height: 58px;
+  position: absolute;
+  left: 79px;
+  top: 11px;
+  overflow: hidden;
+}
+.top-login {
+  position: absolute;
+  right: 0%;
+  left: 84.29%;
+  width: 15.71%;
+  bottom: 0%;
+  top: 12.07%;
+  height: 87.93%;
+  overflow: hidden;
+}
+.background-banner3 {
+  background: #28a745;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 13.73%;
+  top: 0%;
+  height: 86.27%;
+}
+.login-register {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 104.5px);
+  top: calc(50% - 18.5px);
+  width: 210px;
+  height: 44px;
+}
+.safe-dev {
+  color: #28a745;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 754.5px);
+  top: calc(50% - 29px);
+}
+.header-buttons {
+  position: absolute;
+  right: 40.03%;
+  left: 13.65%;
+  width: 46.32%;
+  bottom: 10.34%;
+  top: 17.24%;
+  height: 72.41%;
+  overflow: hidden;
+}
+.home {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 349.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.services {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 214.5px);
+  top: calc(50% - 21px);
+  width: 135px;
+  height: 41px;
+}
+.faq {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 79.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.team {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -55.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.contact-us {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -190.5px);
+  top: calc(50% - 20px);
+  width: 159px;
+  height: 41px;
+}
+.contact-us2 {
+  color: #343a40;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 709px;
+  top: 2248px;
+  width: 255px;
+  height: 52px;
+}
+.safe-dev-logo {
+  width: 68px;
+  height: 68px;
+  position: absolute;
+  left: 11px;
+  top: 6px;
+}
+.hover-effect {
+    transition: text-shadow 0.5s ease; 
+  }
+  .hover-effect:hover {
+    text-shadow: 0px 0px 8px rgba(17, 219, 10, 0.7); 
+  }
+  
+  
+  .background-banner4 {
+    transition: background-color 0.75s ease; 
+  }
+  
+  .top-login:hover .background-banner4 {
+    background-color: rgba(6, 91, 3, 0.7); 
+  }
+  

@@ -1,0 +1,215 @@
+.large,
+.large * {
+  box-sizing: border-box;
+}
+.large {
+  background: #ffffff;
+  width: 1600px;
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+}
+.background-banner {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(174, 174, 174, 1) 100%
+  );
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  width: 1600px;
+  height: 449px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.home-sign-up-area {
+  width: 957px;
+  height: 169px;
+  position: absolute;
+  left: 118px;
+  top: 157px;
+  overflow: hidden;
+}
+.welcome-to-your-prof {
+  color: #5eab6f;
+  text-align: left;
+  font-family: "Avenir-Oblique", sans-serif;
+  font-size: 54px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 478.5px);
+  top: calc(50% - 84.5px);
+}
+.project-transactions {
+  color: #8d8d8d;
+  text-align: left;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 478.5px);
+  top: calc(50% - -47.5px);
+}
+.top-bar {
+  width: 1509px;
+  height: 58px;
+  position: absolute;
+  left: 79px;
+  top: 11px;
+  overflow: hidden;
+}
+.top-login {
+  position: absolute;
+  right: 0%;
+  left: 84.29%;
+  width: 15.71%;
+  bottom: 0%;
+  top: 12.07%;
+  height: 87.93%;
+  overflow: hidden;
+}
+.background-banner2 {
+  background: #28a745;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: #979797;
+  border-width: 1px;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 13.73%;
+  top: 0%;
+  height: 86.27%;
+}
+.login-register {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 104.5px);
+  top: calc(50% - 18.5px);
+  width: 210px;
+  height: 44px;
+}
+.safe-dev {
+  color: #28a745;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 42px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 754.5px);
+  top: calc(50% - 29px);
+}
+.header-buttons {
+  position: absolute;
+  right: 40.03%;
+  left: 13.65%;
+  width: 46.32%;
+  bottom: 10.34%;
+  top: 17.24%;
+  height: 72.41%;
+  overflow: hidden;
+}
+.home {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 349.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.services {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 214.5px);
+  top: calc(50% - 21px);
+  width: 135px;
+  height: 41px;
+}
+.faq {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 79.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.team {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -55.5px);
+  top: calc(50% - 20px);
+  width: 135px;
+  height: 41px;
+}
+.contact-us {
+  color: #757575;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - -190.5px);
+  top: calc(50% - 20px);
+  width: 159px;
+  height: 41px;
+}
+.rectangle {
+  background: #dcdcdc;
+  width: 1600px;
+  height: 31px;
+  position: absolute;
+  left: 0px;
+  top: 74px;
+}
+.contact-us2 {
+  color: #343a40;
+  text-align: center;
+  font-family: "Avenir-Heavy", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 672px;
+  top: 481px;
+  width: 255px;
+  height: 52px;
+}
+.hover-effect {
+    transition: text-shadow 0.5s ease; 
+  }
+  .hover-effect:hover {
+    text-shadow: 0px 0px 8px rgba(17, 219, 10, 0.7); 
+  }
+  
+  
+  .background-banner4 {
+    transition: background-color 0.75s ease; 
+  }
+  
+  .top-login:hover .background-banner4 {
+    background-color: rgba(6, 91, 3, 0.7); 
+  }
+  
